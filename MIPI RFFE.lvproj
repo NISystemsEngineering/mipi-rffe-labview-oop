@@ -99,10 +99,6 @@
 			<Item Name="niDigitalLV_64.dll" Type="Document" URL="niDigitalLV_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="RFFE Commands Type Def.ctl" Type="VI" URL="../../../Downloads/MIPI RFFE API/Controls/RFFE Commands Type Def.ctl"/>
-			<Item Name="Write Data Strict Type Def.ctl" Type="VI" URL="../../../Downloads/MIPI RFFE API/Controls/Write Data Strict Type Def.ctl"/>
-			<Item Name="Create Source Waveform Data.vi" Type="VI" URL="../../../Downloads/MIPI RFFE API/subVI/Create Source Waveform Data.vi"/>
-			<Item Name="Data Check.vi" Type="VI" URL="../../../Downloads/MIPI RFFE API/subVI/Data Check.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
