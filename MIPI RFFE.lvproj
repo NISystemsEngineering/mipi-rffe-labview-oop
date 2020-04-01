@@ -14,6 +14,7 @@
 		<Item Name="Examples" Type="Folder">
 			<Item Name="RFFE Extended Register Write Example.vi" Type="VI" URL="../Examples/RFFE Extended Register Write Example.vi"/>
 			<Item Name="RFFE Extended Register Read Example.vi" Type="VI" URL="../Examples/RFFE Extended Register Read Example.vi"/>
+			<Item Name="RFFE Compile Pattern.vi" Type="VI" URL="../Examples/RFFE Compile Pattern.vi"/>
 		</Item>
 		<Item Name="MIPI RFFE API.lvlib" Type="Library" URL="../MIPI RFFE API.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -92,6 +93,10 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="niDigital_64.dll" Type="Document" URL="niDigital_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>

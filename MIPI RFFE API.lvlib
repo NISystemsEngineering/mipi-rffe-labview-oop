@@ -13,6 +13,7 @@
 		<Item Name="Load Digital Project.vi" Type="VI" URL="../Exports/Load Digital Project.vi"/>
 		<Item Name="Enable VIO.vi" Type="VI" URL="../Exports/Enable VIO.vi"/>
 		<Item Name="Disable VIO.vi" Type="VI" URL="../Exports/Disable VIO.vi"/>
+		<Item Name="Burst Command.vi" Type="VI" URL="../Exports/Burst Command.vi"/>
 		<Item Name="Register 0 Write.vi" Type="VI" URL="../Exports/Register 0 Write.vi"/>
 		<Item Name="Register Write.vi" Type="VI" URL="../Exports/Register Write.vi"/>
 		<Item Name="Extended Register Write.vi" Type="VI" URL="../Exports/Extended Register Write.vi"/>
@@ -20,6 +21,16 @@
 		<Item Name="Register Read.vi" Type="VI" URL="../Exports/Register Read.vi"/>
 		<Item Name="Extended Register Read.vi" Type="VI" URL="../Exports/Extended Register Read.vi"/>
 		<Item Name="Extended Register Read Long.vi" Type="VI" URL="../Exports/Extended Register Read Long.vi"/>
+		<Item Name="Generate Vectors.vi" Type="VI" URL="../Exports/Generate Vectors.vi"/>
+		<Item Name="Generate Register 0 Write Vectors.vi" Type="VI" URL="../Exports/Generate Register 0 Write Vectors.vi"/>
+		<Item Name="Generate Register Write Vectors.vi" Type="VI" URL="../Exports/Generate Register Write Vectors.vi"/>
+		<Item Name="Generate Extended Register Write Vectors.vi" Type="VI" URL="../Exports/Generate Extended Register Write Vectors.vi"/>
+		<Item Name="Generate Extended Register Write Long Vectors.vi" Type="VI" URL="../Exports/Generate Extended Register Write Long Vectors.vi"/>
+		<Item Name="Generate Register Read Vectors.vi" Type="VI" URL="../Exports/Generate Register Read Vectors.vi"/>
+		<Item Name="Generate Extended Register Read Vectors.vi" Type="VI" URL="../Exports/Generate Extended Register Read Vectors.vi"/>
+		<Item Name="Generate Extended Register Read Long Vectors.vi" Type="VI" URL="../Exports/Generate Extended Register Read Long Vectors.vi"/>
+		<Item Name="Create Pattern.vi" Type="VI" URL="../Create Pattern.vi"/>
+		<Item Name="Compile Pattern.vi" Type="VI" URL="../Compile Pattern.vi"/>
 	</Item>
 	<Item Name="Digital Project" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -36,6 +47,7 @@
 		<Item Name="Specifications.specs" Type="Document" URL="../Digital Project/Specifications.specs"/>
 		<Item Name="Timing.digitiming" Type="Document" URL="../Digital Project/Timing.digitiming"/>
 	</Item>
+	<Item Name="Command Type.ctl" Type="VI" URL="../Command Type.ctl"/>
 	<Item Name="Slave Address.ctl" Type="VI" URL="../Slave Address.ctl"/>
 	<Item Name="Register Address.ctl" Type="VI" URL="../Register Address.ctl"/>
 	<Item Name="Register Data.ctl" Type="VI" URL="../Register Data.ctl"/>
@@ -49,6 +61,12 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Calculate Odd Parity Bit (Array).vi" Type="VI" URL="../Calculate Odd Parity Bit (Array).vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Get Digital Project Directory.vi" Type="VI" URL="../Get Digital Project Directory.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
+	<Item Name="Format Into Vector Statement.vi" Type="VI" URL="../Format Into Vector Statement.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Raise Out of Range Error.vi" Type="VI" URL="../Raise Out of Range Error.vi">
