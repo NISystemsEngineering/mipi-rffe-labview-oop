@@ -91,11 +91,12 @@
 			<Item Name="Set Register Data.vi" Type="VI" URL="../Set Register Data.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(6!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;:!=!!?!!!T%UV*5%EA5E:'23""5%EO&lt;(:M;7)&gt;5E:'23"&amp;?(2F&lt;G2F:#"$&lt;WVN97ZE,GRW9WRB=X-!'6*'2E5A28BU:7ZE:71A1W^N&lt;7&amp;O:#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"&amp;!0%!!!!!!!!!!B..36"*)&amp;*'2E5A16"*,GRW&lt;'FC%6*F:WFT&gt;'6S)%2B&gt;'%O9X2M!"&gt;!"1!.5G6H;8.U:8)A2'&amp;U91!;1%!!!@````]!"QV3:7&gt;J=X2F=C"%982B!&amp;:!=!!?!!!T%UV*5%EA5E:'23""5%EO&lt;(:M;7)&gt;5E:'23"&amp;?(2F&lt;G2F:#"$&lt;WVN97ZE,GRW9WRB=X-!'&amp;*'2E5A28BU:7ZE:71A1W^N&lt;7&amp;O:#"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!#%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">50331648</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">276832256</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8388610</Property>
+				<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 			</Item>
 		</Item>
 		<Item Name="Byte Count Field Width" Type="Property Definition">
