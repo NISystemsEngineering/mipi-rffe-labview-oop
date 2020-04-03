@@ -51,7 +51,7 @@
 	<Item Name="Slave Address.ctl" Type="VI" URL="../Slave Address.ctl"/>
 	<Item Name="Register Address.ctl" Type="VI" URL="../Register Address.ctl"/>
 	<Item Name="Register Data.ctl" Type="VI" URL="../Register Data.ctl"/>
-	<Item Name="Get Site List.vi" Type="VI" URL="../Get Site List.vi">
+	<Item Name="Format Site List.vi" Type="VI" URL="../Format Site List.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Byte to Bits.vi" Type="VI" URL="../Byte to Bits.vi">
