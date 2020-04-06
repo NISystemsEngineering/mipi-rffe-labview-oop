@@ -104,7 +104,6 @@
 			<Item Name="niDigitalLV_64.dll" Type="Document" URL="niDigitalLV_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Get Site List.vi" Type="VI" URL="../Get Site List.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
