@@ -1,6 +1,11 @@
 # Object Oriented MIPI RFFE Reference Architecture
 This project is an object oriented implementation of the [MIPI RFFE API for PXIe-657x Digital Pattern Instrument](https://forums.ni.com/t5/Example-Programs/MIPI-RFFE-API-for-PXIe-657x-Digital-Pattern-Instrument-Register/ta-p/3728425?profile.language=en) by Kyle_A.
 
+## Devices
+Intended for use with National Instruments Digital Pattern Instruments.
+- PXIe-6570
+- PXIe-6571
+
 ## Key Features
 1. Parity checks for read commands
 2. Dynamic pattern creation and compilation
